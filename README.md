@@ -20,6 +20,21 @@ I'm a front-end enthusiast who loves turning ideas into beautiful, responsive we
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 
 ---
+---
+
+## 🚀 Projects
+
+### 🔢 [Simple Calculator](https://ayushamu.github.io/calculator/)
+A basic calculator built with **HTML, CSS, and JavaScript**. Supports basic arithmetic operations with a clean UI.
+
+### 🥰 [Tribute Page](https://ayushamu.github.io/abdul-kalam-tribute/)
+A responsive tribute webpage dedicated to Dr. A. P. J. Abdul Kalam, the "Missile Man of India" and the 11th President of India.
+
+### 📃 [Job Application Form](https://ayushamu.github.io/job-application-form/)
+A responsive and structured job application form built using HTML and CSS. 
+
+
+
 
 ## 📈 GitHub Stats
 
