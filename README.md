@@ -29,8 +29,8 @@ I'm a front-end enthusiast who loves turning ideas into beautiful, responsive we
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/ayush-gupta-amu/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/ayush-gupta-amu/)
 [![Email](https://img.shields.io/badge/Gmail-ayushcmf@gmail.com-red?style=flat-square&logo=gmail)](mailto:ayushcmf@gmail.com)
 
 ---
