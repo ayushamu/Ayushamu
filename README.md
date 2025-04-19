@@ -33,6 +33,9 @@ A responsive tribute webpage dedicated to Dr. A. P. J. Abdul Kalam, the "Missile
 ### 📃 [Job Application Form](https://ayushamu.github.io/job-application-form/)
 A responsive and structured job application form built using HTML and CSS. 
 
+### 🎧 [ Spotify Clone Project](https://ayushamu.github.io/spotify-clone/)
+A simple music player web app built with HTML, CSS, and JavaScript – inspired by Spotify.  
+
 
 
 
@@ -50,6 +53,7 @@ A responsive and structured job application form built using HTML and CSS.
 [![Email](https://img.shields.io/badge/Gmail-ayushcmf@gmail.com-red?style=flat-square&logo=gmail)](mailto:ayushcmf@gmail.com)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=ayushamu&color=blue)
 
 > “Keep building, keep learning, and always stay curious!” 🚀
 
